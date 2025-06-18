@@ -1,12 +1,11 @@
-# 📊 Dashboard: Análise de Laudos Periciais
+# Dashboard: Análise de Laudos Periciais
 
 **Versão 6 – Métricas, SLA e Predição de Atrasos**
 
-Desenvolvido por: **Carlo**
 
 ---
 
-## 📌 Objetivo
+## Objetivo
 
 Este aplicativo interativo foi criado para **análise exploratória e preditiva de laudos periciais**. Ele permite:
 
@@ -17,7 +16,7 @@ Este aplicativo interativo foi criado para **análise exploratória e preditiva 
 
 ---
 
-## 🧱 Estrutura do App
+## Estrutura do App
 
 O app foi desenvolvido em **R** utilizando o framework **Shiny**, com estrutura baseada em `shinydashboard`.
 
@@ -46,7 +45,7 @@ A interface contém três abas principais:
 
 ---
 
-## 🔍 Requisitos
+## Requisitos
 
 - R (>= 4.0)
 - Pacotes necessários:
